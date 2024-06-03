@@ -1,73 +1,73 @@
-# Proyectos de Java - Curso Completo de Programación
+# Java Projects - Complete Java Programming Course
 
-Este repositorio contiene una colección de proyectos que desarrollé durante mi curso de programación en Java. A lo largo del curso, aprendí una amplia gama de temas fundamentales y avanzados en Java, incluyendo:
+This repository contains a collection of projects that I developed during my Java programming course. Throughout the course, I learned a wide range of fundamental and advanced topics in Java, including:
 
-## Contenido del Repositorio
+## Repository Contents
 
-1. **Introducción a Java**
-  - Estructura básica de un programa Java
-  - Sintaxis y conceptos fundamentales
-  - Manejo de variables y tipos de datos
+1. **Introduction to Java**
+    - Basic structure of a Java program
+    - Syntax and fundamental concepts
+    - Variable and data type handling
 
-2. **Programación Orientada a Objetos (POO)**
-  - Clases y Objetos
-  - Herencia y Polimorfismo
-  - Encapsulamiento y Abstracción
-  - Interfaces y Clases Abstractas
+2. **Object-Oriented Programming (OOP)**
+    - Classes and Objects
+    - Inheritance and Polymorphism
+    - Encapsulation and Abstraction
+    - Interfaces and Abstract Classes
 
-3. **Manejo de Paquetes**
-  - Creación y organización de paquetes
-  - Importación de paquetes
-  - Uso de bibliotecas estándar y personalizadas
+3. **Package Management**
+    - Creating and organizing packages
+    - Importing packages
+    - Using standard and custom libraries
 
-4. **Estructuras de Datos**
-  - Arrays y Colecciones
-  - Listas, Conjuntos y Mapas
-  - Iteradores y Algoritmos de Búsqueda
+4. **Data Structures**
+    - Arrays and Collections
+    - Lists, Sets, and Maps
+    - Iterators and Search Algorithms
 
-5. **Manejo de Excepciones**
-  - Try-Catch-Finally
-  - Creación de excepciones personalizadas
-  - Gestión de errores y depuración
+5. **Exception Handling**
+    - Try-Catch-Finally
+    - Creating custom exceptions
+    - Error management and debugging
 
-6. **Flujos de Entrada y Salida (I/O)**
-  - Lectura y escritura de archivos
-  - Serialización de objetos
-  - Manejo de streams y buffers
+6. **Input/Output (I/O) Streams**
+    - Reading and writing files
+    - Object serialization
+    - Stream and buffer handling
 
-7. **Programación Concurrente**
-  - Hilos y Procesos
-  - Sincronización y concurrencia
-  - Ejecutores y tareas concurrentes
+7. **Concurrent Programming**
+    - Threads and Processes
+    - Synchronization and Concurrency
+    - Executors and Concurrent Tasks
 
-8. **Desarrollo de Aplicaciones Gráficas**
-  - Introducción a Swing y JavaFX
-  - Diseño de interfaces de usuario
-  - Eventos y Listeners
+8. **Graphical User Interface (GUI) Development**
+    - Introduction to Swing and JavaFX
+    - User interface design
+    - Events and Listeners
 
-9. **Bases de Datos**
-  - Conexión a bases de datos con JDBC
-  - Operaciones CRUD
-  - Integración con bases de datos MySQL
+9. **Databases**
+    - Connecting to databases with JDBC
+    - CRUD operations
+    - Integration with MySQL databases
 
-10. **Entorno de Desarrollo**
-   - Uso de Apache NetBeans para el desarrollo de proyectos
-   - Configuración y optimización del entorno
-   - Debugging y pruebas dentro de NetBeans
+10. **Development Environment**
+    - Using Apache NetBeans for project development
+    - Environment configuration and optimization
+    - Debugging and testing within NetBeans
 
-## Cómo Usar Este Repositorio
+## How to Use This Repository
 
-Cada carpeta dentro del repositorio corresponde a un tema específico del curso e incluye ejemplos prácticos, ejercicios y proyectos completos. Puedes clonar el repositorio y explorar cada uno de los temas a tu propio ritmo:
+Each folder within the repository corresponds to a specific course topic and includes practical examples, exercises, and complete projects. You can clone the repository and explore each topic at your own pace:
 
+```bash
+git clone https://github.com/your-username/java-course-projects.git
+cd java-course-projects
 ```
-git clone https://github.com/tu-usuario/java-course-projects.git
-cd java-course-projects 
-```
 
-**Contribuciones**
-¡Las contribuciones son bienvenidas! Si deseas mejorar alguno de los proyectos o añadir nuevos ejemplos, siéntete libre de hacer un fork del repositorio, realizar tus cambios y enviar un pull request.
+**Contributions**
+Contributions are welcome! If you wish to improve any of the projects or add new examples, feel free to fork the repository, make your changes, and submit a pull request.
 
-**Contacto**
-Para cualquier consulta o sugerencia, puedes contactarme a través de danielkissling65@gmail.com.
+**Contact**
+For any inquiries or suggestions, you can contact me at danielkissling65@gmail.com.
 
 
